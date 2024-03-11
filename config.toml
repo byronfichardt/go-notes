@@ -1,4 +1,0 @@
-DB_PASSWORD="password"
-DB_DATABASE="todoapp"
-DB_PORT=3306
-DB_USERNAME="root"
